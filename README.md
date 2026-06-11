@@ -16,7 +16,12 @@ Using data from the Human Connectome Project Young Adult (HCP-YA) dataset (N = 1
 
 All correlations were weak (|r| ≤ 0.07), and none survived FDR correction (q < 0.05). The strongest uncorrected associations were:
 
-Brain VariableBehavioural Variablerr²p (uncorrected)rACC Gray Vol (norm)Flanker (unadjusted)0.0670.0040.028rACC Gray Vol (norm)NEO-FFI Agreeableness-0.0660.0040.029Amygdala Vol (norm)Flanker (unadjusted)-0.0650.0040.033Amygdala Vol (norm)Flanker (age-adjusted)-0.0610.0040.044
+| Brain Variable | Behavioural Variable | r | r² | p (uncorrected) |
+|---|---|---|---|---|
+| rACC Gray Vol (norm) | Flanker (unadjusted) | 0.067 | 0.004 | 0.028 |
+| rACC Gray Vol (norm) | NEO-FFI Agreeableness | -0.066 | 0.004 | 0.029 |
+| Amygdala Vol (norm) | Flanker (unadjusted) | -0.065 | 0.004 | 0.033 |
+| Amygdala Vol (norm) | Flanker (age-adjusted) | -0.061 | 0.004 | 0.044 |
 
 **Composite anger/hostility score vs. brain structure**
 
