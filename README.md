@@ -25,6 +25,27 @@ All correlations were weak (|r| ≤ 0.08), and none survived FDR correction (q <
 
 **Overall, no robust associations were found between structural brain measures and self-reported anger/hostility traits in this sample. Effect sizes were uniformly negligible (r² < 0.6%), suggesting that, at least for these regions and this measure-set, structural variation does not meaningfully explain individual differences in trait anger or hostility.**
 
+**Composite variables and follow-up modelling**
+
+To address the multiple-comparisons problem and reduce dimensionality, two composite variables were constructed:
+
+- **Aggression/Hostility composite** — the mean of z-scored Anger Affect, Anger Hostility, Anger Aggression, Perceived Hostility, and Perceived Rejection. Internal consistency was acceptable (Cronbach's α = 0.76), supporting treatment of these five items as a single underlying construct.
+- **Amygdala-PFC balance score** — the z-scored amygdala volume minus the mean of z-scored mOFC and rACC gray matter volumes, reflecting a regulatory-circuit (amygdala vs. prefrontal control) hypothesis.
+
+An OLS regression tested whether the Amygdala-PFC balance score predicted the Aggression/Hostility composite, including interactions with sex and age:
+
+`Aggression_composite ~ Amyg_PFC_balance * Gender_num + Amyg_PFC_balance * Age_mid_z + Age_mid_z + Gender_num`
+
+| Predictor | Coefficient | p-value |
+|---|---|---|
+| Amyg_PFC_balance (main effect) | 0.044 | 0.145 |
+| Gender_num | -0.198 | < 0.001 |
+| Amyg_PFC_balance × Gender_num | -0.075 | 0.070 |
+| Age_mid_z | -0.052 | 0.019 |
+| Amyg_PFC_balance × Age_mid_z | 0.040 | 0.048 |
+
+The overall model was significant (R² = 0.033, F = 7.29, p < 0.001), driven mainly by the sex and age main effects rather than the brain-balance measure itself. The main effect of the Amygdala-PFC balance score on aggression was null, but exploratory interactions suggest this relationship may be moderated by age (p = 0.048) and possibly sex (p = 0.070). Given the small effect sizes and lack of correction for these additional exploratory tests, these findings are preliminary and would need replication in an independent sample.
+
 **Dataset**
 
 Human Connectome Project Young Adult (HCP-YA) dataset. Data access requires a data use agreement via ConnectomeDB: https://db.humanconnectome.org
