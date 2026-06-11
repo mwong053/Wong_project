@@ -57,3 +57,17 @@ Run all cells in Project_aggression.ipynb in order
 **Dependencies**
 
 Python packages: pandas, numpy, matplotlib, seaborn, scipy, statsmodels
+
+**References**
+
+Anderson, C. A., & Bushman, B. J. (2002). Human aggression. Annual Review of Psychology, 53, 27–51. https://doi.org/10.1146/annurev.psych.53.100901.135231 
+Heilbron, N., & Prinstein, M. J. (2008). A review and reconceptualization of social aggression: Adaptive and maladaptive correlates. Clinical Child and Family Psychology Review, 11(4), 176–217. https://doi.org/10.1007/s10567-008-0037-9 
+Jones, S. E., Miller, J. D., & Lynam, D. R. (2011). Personality, antisocial behavior, and aggression: A meta-analytic review. Journal of Criminal Justice, 39(4), 329–337. https://doi.org/10.1016/j.jcrimjus.2011.03.004
+Krämer, U. M., Jansma, H., Tempelmann, C., & Münte, T. F. (2011). Executive control in trait aggression: An fMRI study of inhibitory control using the Flanker task. Social Cognitive and Affective Neuroscience, 6(2), 180–188. https://doi.org/10.1093/scan/nsq072
+Mesurado, B., Vidal, E. M., & Mestre, A. L. (2018). Negative emotions and behaviour: The role of regulatory emotional self-efficacy. Journal of Adolescence (London, England.), 64, 62–71. https://doi.org/10.1016/j.adolescence.2018.01.007 
+Pawliczek, C. M., Derntl, B., Kellermann, T., Kohn, N., Gur, R. C., & Habel, U. (2013). Inhibitory control and trait aggression: Neural and behavioral correlates during an emotional go/no-go task. Social Cognitive and Affective Neuroscience, 8(6), 728–735. https://doi.org/10.1093/scan/nss065
+Roberton, T., Daffern, M., & Bucks, R. S. (2012). Emotion regulation and aggression. Aggression and Violent Behavior, 17(1), 72–82. https://doi.org/10.1016/j.avb.2011.09.006
+Rosell, D. R., & Siever, L. J. (2015). The neurobiology of aggression and violence. CNS Spectrums, 20(3), 254–279. https://doi.org/10.1017/S109285291500019X 
+Siever, L. J. (2008). Neurobiology of aggression and violence. The American Journal of Psychiatry, 165(4), 429–442. https://doi.org/10.1176/appi.ajp.2008.07111774 
+Smith, K., Jones, A., Daly, N., Widdrington, H., Garofalo, C., & Gillespie, S. M. (2026). Emotion regul
+
