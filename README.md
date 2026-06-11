@@ -25,7 +25,12 @@ All correlations were weak (|r| ≤ 0.07), and none survived FDR correction (q <
 
 **Composite anger/hostility score vs. brain structure**
 
-Brain Variablerr²pp (FDR)SignificantAmygdala Vol (norm)0.016<0.0010.5990.652NomOFC Gray Vol (norm)0.014<0.0010.6480.652NorACC Gray Vol (norm)0.014<0.0010.6520.652NomOFC Thickness0.0470.0020.1220.490No
+| Brain Variable | r | r² | p | p (FDR) | Significant |
+|---|---|---|---|---|---|
+| Amygdala Vol (norm) | 0.016 | <0.001 | 0.599 | 0.652 | No |
+| mOFC Gray Vol (norm) | 0.014 | <0.001 | 0.648 | 0.652 | No |
+| rACC Gray Vol (norm) | 0.014 | <0.001 | 0.652 | 0.652 | No |
+| mOFC Thickness | 0.047 | 0.002 | 0.122 | 0.490 | No |
 
 **Overall, no robust associations were found between structural brain measures and self-reported anger/hostility traits in this sample. Effect sizes were uniformly negligible (r² < 0.5%), suggesting that, at least for these regions and this measure-set, structural variation does not meaningfully explain individual differences in trait anger or hostility.** The composite analysis (combining four conceptually related anger/hostility items to reduce the multiple-comparisons burden) is exploratory and follow-up to the primary screen, not an independent confirmatory test.
 
