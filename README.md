@@ -8,31 +8,22 @@
 
 This project examines whether structural brain measures previously linked to aggression and emotion regulation — amygdala volume, medial orbitofrontal cortex (mOFC) gray matter volume and thickness, and rostral anterior cingulate cortex (rACC) gray matter volume — are associated with self-reported anger, hostility, and rejection sensitivity in a large healthy adult sample.
 
-Using data from the Human Connectome Project Young Adult (HCP-YA) dataset (N = 1105 after quality control), bilateral FreeSurfer-derived brain volumes/thickness were normalised for intracranial volume and correlated with a battery of behavioural measures (perceived stress, self-efficacy, anger affect, anger hostility, perceived hostility, perceived rejection, inhibitory control via Flanker task, and NEO-FFI Agreeableness/Conscientiousness). False discovery rate (Benjamini-Hochberg) correction was applied across all brain-behaviour pairs. A composite "aggression-related" score (mean z-score of anger affect, anger hostility, perceived hostility, and perceived rejection) was also derived and tested against each brain measure.
+Using data from the Human Connectome Project Young Adult (HCP-YA) dataset (N = 1105 after quality control), bilateral FreeSurfer-derived brain volumes/thickness were normalised for intracranial volume and correlated with a battery of behavioural measures (perceived stress, self-efficacy, anger affect, anger hostility, anger aggression, perceived hostility, perceived rejection, inhibitory control via Flanker task, and NEO-FFI Agreeableness/Conscientiousness). False discovery rate (Benjamini-Hochberg) correction was applied across all brain-behaviour pairs.
 
 **Key Findings**
 
-**Broad screen: 4 brain measures × 10 behavioural measures (40 tests, FDR-corrected)**
+**Broad screen: 4 brain measures × 11 behavioural measures (44 tests, FDR-corrected)**
 
-All correlations were weak (|r| ≤ 0.07), and none survived FDR correction (q < 0.05). The strongest uncorrected associations were:
+All correlations were weak (|r| ≤ 0.08), and none survived FDR correction (q < 0.05). The strongest uncorrected associations were:
 
-| Brain Variable | Behavioural Variable | r | r² | p (uncorrected) |
-|---|---|---|---|---|
-| rACC Gray Vol (norm) | Flanker (unadjusted) | 0.067 | 0.004 | 0.028 |
-| rACC Gray Vol (norm) | NEO-FFI Agreeableness | -0.066 | 0.004 | 0.029 |
-| Amygdala Vol (norm) | Flanker (unadjusted) | -0.065 | 0.004 | 0.033 |
-| Amygdala Vol (norm) | Flanker (age-adjusted) | -0.061 | 0.004 | 0.044 |
-
-**Composite anger/hostility score vs. brain structure**
-
-| Brain Variable | r | r² | p | p (FDR) | Significant |
+| Brain Variable | Behavioural Variable | r | r² | p (uncorrected) | p (FDR) |
 |---|---|---|---|---|---|
-| Amygdala Vol (norm) | 0.016 | <0.001 | 0.599 | 0.652 | No |
-| mOFC Gray Vol (norm) | 0.014 | <0.001 | 0.648 | 0.652 | No |
-| rACC Gray Vol (norm) | 0.014 | <0.001 | 0.652 | 0.652 | No |
-| mOFC Thickness | 0.047 | 0.002 | 0.122 | 0.490 | No |
+| rACC Gray Vol (norm) | Anger Aggression | 0.077 | 0.006 | 0.011 | 0.195 |
+| Amygdala Vol (norm) | Flanker (unadjusted) | -0.076 | 0.006 | 0.012 | 0.195 |
+| Amygdala Vol (norm) | Flanker (age-adjusted) | -0.075 | 0.006 | 0.013 | 0.195 |
+| rACC Gray Vol (norm) | NEO-FFI Agreeableness | -0.068 | 0.005 | 0.026 | 0.285 |
 
-**Overall, no robust associations were found between structural brain measures and self-reported anger/hostility traits in this sample. Effect sizes were uniformly negligible (r² < 0.5%), suggesting that, at least for these regions and this measure-set, structural variation does not meaningfully explain individual differences in trait anger or hostility.** The composite analysis (combining four conceptually related anger/hostility items to reduce the multiple-comparisons burden) is exploratory and follow-up to the primary screen, not an independent confirmatory test.
+**Overall, no robust associations were found between structural brain measures and self-reported anger/hostility traits in this sample. Effect sizes were uniformly negligible (r² < 0.6%), suggesting that, at least for these regions and this measure-set, structural variation does not meaningfully explain individual differences in trait anger or hostility.**
 
 **Dataset**
 
