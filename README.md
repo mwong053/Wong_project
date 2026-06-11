@@ -69,5 +69,6 @@ Pawliczek, C. M., Derntl, B., Kellermann, T., Kohn, N., Gur, R. C., & Habel, U. 
 Roberton, T., Daffern, M., & Bucks, R. S. (2012). Emotion regulation and aggression. Aggression and Violent Behavior, 17(1), 72–82. https://doi.org/10.1016/j.avb.2011.09.006
 Rosell, D. R., & Siever, L. J. (2015). The neurobiology of aggression and violence. CNS Spectrums, 20(3), 254–279. https://doi.org/10.1017/S109285291500019X 
 Siever, L. J. (2008). Neurobiology of aggression and violence. The American Journal of Psychiatry, 165(4), 429–442. https://doi.org/10.1176/appi.ajp.2008.07111774 
-Smith, K., Jones, A., Daly, N., Widdrington, H., Garofalo, C., & Gillespie, S. M. (2026). Emotion regul
+Smith, K., Jones, A., Daly, N., Widdrington, H., Garofalo, C., & Gillespie, S. M. (2026). Emotion regulation and aggression: A systematic review and meta‐analysis. Aggressive Behavior, 52(1), e70055-n/a. https://doi.org/10.1002/ab.70055 
+
 
