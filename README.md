@@ -36,7 +36,7 @@ All correlations were weak (|r| ≤ 0.07), and none survived FDR correction (q <
 
 **Dataset**
 
-Human Connectome Project Young Adult (HCP-YA) dataset (Van Essen et al., 2013). Data access requires a data use agreement via ConnectomeDB: https://db.humanconnectome.org
+Human Connectome Project Young Adult (HCP-YA) dataset. Data access requires a data use agreement via ConnectomeDB: https://db.humanconnectome.org
 
 Raw data files (unrestricted_hcp_freesurfer.csv, HCP_YA_subjects_*.csv) are not included in this repository due to data use agreement restrictions. Download from ConnectomeDB and place in your working directory before running.
 
