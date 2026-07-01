@@ -14,6 +14,8 @@ Using data from the Human Connectome Project Young Adult (HCP-YA) dataset (N = 1
 
 **Broad screen: 4 brain measures × 11 behavioural measures (44 tests, FDR-corrected)**
 
+<img width="1205" height="735" alt="image" src="https://github.com/user-attachments/assets/38016d35-7af4-40f6-aeb0-b3abec3ae12c" />
+
 All correlations were weak (|r| ≤ 0.08), and none survived FDR correction (q < 0.05). The strongest uncorrected associations were:
 
 | Brain Variable | Behavioural Variable | r | r² | p (uncorrected) | p (FDR) |
@@ -35,6 +37,8 @@ To address the multiple-comparisons problem and reduce dimensionality, two compo
 An OLS regression tested whether the Amygdala-PFC balance score predicted the Aggression/Hostility composite, including interactions with sex and age:
 
 `Aggression_composite ~ Amyg_PFC_balance * Gender_num + Amyg_PFC_balance * Age_mid_z + Age_mid_z + Gender_num`
+
+<img width="760" height="628" alt="image" src="https://github.com/user-attachments/assets/3d647b4e-9620-483d-9c2a-cce53b4585fb" />
 
 | Predictor | Coefficient | p-value |
 |---|---|---|
