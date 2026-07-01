@@ -11,6 +11,8 @@ This project examines whether structural brain measures previously linked to agg
 
 Using data from the Human Connectome Project Young Adult (HCP-YA) dataset (N = 1105 after quality control), bilateral FreeSurfer-derived brain volumes/thickness were normalised for intracranial volume and correlated with a battery of behavioural measures (perceived stress, self-efficacy, anger affect, anger hostility, anger aggression, perceived hostility, perceived rejection, inhibitory control via Flanker task, and NEO-FFI Agreeableness/Conscientiousness). False discovery rate (Benjamini-Hochberg) correction was applied across all brain-behaviour pairs.
 
+**Is aggression-related psychosocial factors (stress, self-efficacy, executive control, anger/hostility, and personality) associated with structural variation in the amygdala and prefrontal cortex, and is this association moderated by age and gender?**
+
 <hr>
 
 **Background**
