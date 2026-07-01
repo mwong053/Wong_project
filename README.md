@@ -1,6 +1,7 @@
 ## **Aggression_project**
 
-**Brain Structure and Aggression-Related Traits in Healthy Adults: An HCP Young Adult Analysis**
+**Multidimensional Approach to Examining Aggression Vulnerability: Psychosocial Factors and Structural Variations in the Amygdala and Prefrontal Cortex**
+
 
 **Author:** Kok Tsz Wing, Marcus Jude Wong Shyuan
 
