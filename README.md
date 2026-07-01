@@ -17,12 +17,11 @@ Using data from the Human Connectome Project Young Adult (HCP-YA) dataset (N = 1
 **Majority of aggression research rely on self-report measures and behavioural paradigms (Roberton et al., 2012)**
 
 -Studied in silots from biological/neural explanations for aggression
--Reactive aggression that is rapid and emotionally driven, where immediate action is prioritized over long-term consequential thinking is not able to be fully explained by self-report measures
 
 **Existing neuroimaging research (Rosell & Siever, 2015; Siever, 2008) suggests that aggression is associated with:**
 
--Poor emotional regulation ↔ emotion-processing systems (e.g., amygdala)
--Low inhibitory control ↔ reward-processing systems
+-Poor emotional regulation ↔ emotion-processing systems (e.g., amygdala)  
+-Low inhibitory control ↔ reward-processing systems  
 -Maladaptive decision-making ↔ executive-control systems (e.g., prefrontal cortex)
 
 BUT relevant brain systems are often studied independently
