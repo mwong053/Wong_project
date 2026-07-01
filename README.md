@@ -14,12 +14,12 @@ Using data from the Human Connectome Project Young Adult (HCP-YA) dataset (N = 1
 
 **Background**
 
-<u> Majority of aggression research rely on self-report measures and behavioural paradigms (Roberton et al., 2012) <u>
+<u>Majority of aggression research rely on self-report measures and behavioural paradigms (Roberton et al., 2012)<u>
 
 -Studied in silots from biological/neural explanations for aggression
 -Reactive aggression that is rapid and emotionally driven, where immediate action is prioritized over long-term consequential thinking is not able to be fully explained by self-report measures
 
-<u> Existing neuroimaging research (Rosell & Siever, 2015; Siever, 2008) suggests that aggression is associated with: <u>
+<u>Existing neuroimaging research (Rosell & Siever, 2015; Siever, 2008) suggests that aggression is associated with:<u>
 
 -Poor emotional regulation ↔ emotion-processing systems (e.g., amygdala)
 -Low inhibitory control ↔ reward-processing systems
@@ -27,13 +27,13 @@ Using data from the Human Connectome Project Young Adult (HCP-YA) dataset (N = 1
 
 BUT relevant brain systems are often studied independently
 
-<u> Research on amygdala volume and levels of agression and violence: <u>
+<u>Research on amygdala volume and levels of agression and violence:<u>
 
 -Smaller amygdalar volumes have been found to have higher levels of aggression and violence 
 -Smaller amygdala volume has a higher correlation with violence (Johansen et al., 2011; Rosell and Siever, 2015)
 -In affective psychoses/bipolar disorder specifically, studies have detected increased volumes of amygdala (Widmayer et al., 2018) 
 
-<u> Research on PFC volume and aggression: <u>
+<u>Research on PFC volume and aggression:<u>
 
 -Lower PFC volume (particularly orbitofrontal and dorsolateral regions) has been found to correlate with antisocial personality disorder (Raine et al., 2000; Yang & Raine, 2009)
 -Increased risk of violent outcomes across personality disorder studies (Yu et al., 2012) 
