@@ -33,6 +33,8 @@ Resarch on PFC volume and aggression:
 -Lower PFC volume (particularly orbitofrontal and dorsolateral regions) has been found to correlate with antisocial personality disorder (Raine et al., 2000; Yang & Raine, 2009)
 -Increased risk of violent outcomes across personality disorder studies (Yu et al., 2012) 
 
+<hr>
+
 **Key Findings**
 
 **Broad screen: 4 brain measures × 11 behavioural measures (44 tests, FDR-corrected)**
@@ -72,6 +74,8 @@ An OLS regression tested whether the Amygdala-PFC balance score predicted the Ag
 | Amyg_PFC_balance × Age_mid_z | 0.040 | 0.048 |
 
 The overall model was significant (R² = 0.033, F = 7.29, p < 0.001), driven mainly by the sex and age main effects rather than the brain-balance measure itself. The main effect of the Amygdala-PFC balance score on aggression was null, but exploratory interactions suggest this relationship may be moderated by age (p = 0.048) and possibly sex (p = 0.070). Given the small effect sizes and lack of correction for these additional exploratory tests, these findings are preliminary and would need replication in an independent sample.
+
+<hr>
 
 **Dataset**
 
